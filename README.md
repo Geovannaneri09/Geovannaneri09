@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil ❤️
 
-<!--
-**Geovannaneri09/Geovannaneri09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Geovanna Neri
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](httsp://alura.com.br)
+-Estou me desenvoolvendo na linguagem JavaScript
+-Utilizo esse espaco para minha organizacao r compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo 📫
+
+geovannaplacidoneri@gmail.com
+
+@gi.ner_
+
+![](https://media1.tenor.com/m/AJxvWqFkCnoAAAAC/hello-kitty-sunglasses.gif)
