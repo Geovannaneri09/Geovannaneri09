@@ -2,9 +2,9 @@
 
 Meu nome e Geovanna Neri
 
--Estou estudando no [Alura](httsp://alura.com.br)
--Estou me desenvoolvendo na linguagem JavaScript
--Utilizo esse espaco para minha organizacao r compartilhamento dos meus projetos
+- Estou estudando no [Alura](httsp://alura.com.br)
+- Estou me desenvoolvendo na linguagem JavaScript
+- Utilizo esse espaco para minha organizacao r compartilhamento dos meus projetos
 
 ### voce entrar em contato comigo 📫
 
